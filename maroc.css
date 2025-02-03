@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.img{height: 80px;
+    background-image: url(fifa.jpg); 
+    width: 150px;
+margin-left: 5px;
+background-size: 100% 100%;
+float: left;
+}
+.img-fluid {
+  height: 200px;
+  width: 300px;
+  padding-top: 15px;
+}
+h3{
+    width: 500px;
+  
+}
+.summary-section {
+    background-color: #f8f9fa;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+footer{ 
+    background-color:white;
+    color:black;
+}
+body {
+    background: url('zelij.jpg');
+    background-color: #c1272d;
+}
+.container{
+    background-color: #f8f9fa;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+}
